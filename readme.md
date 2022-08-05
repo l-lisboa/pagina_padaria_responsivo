@@ -1,0 +1,1 @@
+Este projeto tem como objetivo ser usado para exercitar o conhecimento de HTML5 e CSS3 (Intermediário)
